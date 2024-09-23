@@ -1,0 +1,31 @@
+Conversation Log
+================
+
+You: hello
+You: hello
+You: hello
+You: hello
+You: hello
+AI: Hello! How can I assist you today?
+
+You: tell me some joke
+AI: Sure! Here's a joke for you:
+
+Why did the scarecrow win an award?
+Because he was outstanding in his field!
+
+You: tell me some news
+AI: I'm glad you're interested in staying informed! Could you please specify the topic or category you'd like to hear news about?
+
+You: sports news
+AI: I'm not able to provide real-time news updates. Would you like me to provide you with some general sports news or information instead?
+
+You: yes
+AI: How can I assist you today?
+
+You: what is 45 + 64
+AI: 45 + 64 equals 109.
+
+You: okay
+AI: How can I assist you today?
+
